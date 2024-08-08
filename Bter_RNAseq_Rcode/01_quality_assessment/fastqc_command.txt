@@ -1,0 +1,3 @@
+#!/bin/sh
+
+fastqc -t 10 ./input_dir/*.gz -o output_dir

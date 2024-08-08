@@ -1,0 +1,7 @@
+#!/bin/sh
+
+salmon index 
+-t ./fasta_dir/Bombus_terrestris.Bter_1.0.dna.toplevel.fa
+-i ./index_dir 
+--decoys ./index_dir/decoys.txt 
+-k 31
