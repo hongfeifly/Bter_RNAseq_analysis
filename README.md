@@ -25,5 +25,5 @@ The following directory contains scripts for:
 
 Scripts here, especially those for transcript quantification, differential expression, and Gene Ontology enrichment analysis used modifications of scripts published along with the following manuscripts:
 
-* [Colgan et al. (2019), Molecular ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15047)-[Github repository](https://github.com/wurmlab/Bter_neonicotinoid_exposure_experiment)
-* [Zhuang et al. (2023), Nature Communications](https://www.nature.com/articles/s41467-023-41198-6)-[Github repository](https://github.com/Joscolgan/bombus_mated_worker_analysis?tab=readme-ov-file)
+* [Colgan et al. (2019), Molecular ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/mec.15047) - [Github repository](https://github.com/wurmlab/Bter_neonicotinoid_exposure_experiment)
+* [Zhuang et al. (2023), Nature Communications](https://www.nature.com/articles/s41467-023-41198-6) - [Github repository](https://github.com/Joscolgan/bombus_mated_worker_analysis?tab=readme-ov-file)
