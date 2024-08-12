@@ -14,6 +14,10 @@ The following directory contains scripts for:
     * Performed using [STAR](https://github.com/alexdobin/STAR).
 * **Data exploration, including differential expression analysis.**
     * Performed using [DESeq2](https://bioconductor.org/packages/release/bioc/html/DESeq2.html).
+* **Tissue specificity analysis.**
+    * Performed using [tispec](https://rdrr.io/github/roonysgalbi/tispec).
+* **dN/dS estimation.**
+    * Performed using [orthologr](https://github.com/drostlab/orthologr?tab=readme-ov-file).
 * **Weighted gene co-expression network analysis.**
     * Performed using [WGCNA](https://cran.r-project.org/web/packages/WGCNA/index.html).
 * **Gene Ontology term enrichment analysis.**
