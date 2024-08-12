@@ -1,7 +1,21 @@
 #!/bin/sh
+########################################################################
+##
+## Author: Joe Colgan (joscolgan), Hongfei Xu (hongfeifly)
+## Name: make_star_index.sh
+##
+## Purpose:
+## This script generates a genome index using salmon, a common short read
+## aligner for RNA-seq datasets. This script takes one input argument
+## from the command line to generate the genome index. The arguments is:
+## A reference genome assembly in FASTA format.
+## The script outputs a folder containing the genome index.
+##
+########################################################################
 
+## Create salmon indices:
 salmon index 
--t ./fasta_dir/Bombus_terrestris.Bter_1.0.dna.toplevel.fa
--i ./index_dir 
+-t ./reference/genome.fa
+-i ./reference 
 --decoys ./index_dir/decoys.txt 
 -k 31
