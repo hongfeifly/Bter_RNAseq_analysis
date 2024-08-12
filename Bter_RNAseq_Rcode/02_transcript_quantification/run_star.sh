@@ -1,11 +1,27 @@
 #!/bin/sh
+########################################################################
+##
+## Author: Joe Colgan (joscolgan), Hongfei Xu (hongfeifly)
+## Name: run_star.sh
+##
+## Purpose:
+## This script takes pairs of compressed fastq files and performs 
+## alignment against a database of indexed transcripts using the 
+## RNA-Seq aligner, STAR. The output sam file is converted in bam file
+## format and sorted by read coordinates.
+## The final output is a bam file.  
+##
+########################################################################
 
+## run all samples in data_dir, respectively.
 for name in ./data_dir/B*R1*.gz;
 do
 
+## extract main name of each sample
 name_2="$(echo "$name" | cut -d '/' -f 3 | cut -d '.' -f 1)"
 echo "$name_2"
 
+## align sequence data with reference genome
 STAR --runThreadN 4 \
 --genomeDir ./index_dir/ \
 --readFilesCommand gunzip -c \
