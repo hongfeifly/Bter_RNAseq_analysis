@@ -8,5 +8,5 @@ Hongfei Xu, ..., Thomas J. Colgan. Localised tissue-specific gene expression and
 
 The following directory contains scripts for:
 
-* `The quality assessment of RNA-seq FASTQ sequences.`
+* **The quality assessment of RNA-seq FASTQ sequences.**
     * Performed using [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/).
