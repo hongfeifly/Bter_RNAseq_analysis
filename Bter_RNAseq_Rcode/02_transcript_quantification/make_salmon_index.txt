@@ -13,9 +13,15 @@
 ##
 ########################################################################
 
+## Take inputs from the command line:
+reference_dir=./reference_dir
+# dirctory storing reference genome assembly
+index_dir=./index_dir
+# dirctory storing genomic index file generated for running STAR
+
 ## Create salmon indices:
 salmon index 
--t ./reference/genome.fa
--i ./reference 
---decoys ./index_dir/decoys.txt 
+-t $reference/genome.fa
+-i $reference 
+--decoys $index_dir/decoys.txt 
 -k 31
