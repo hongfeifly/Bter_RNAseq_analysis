@@ -1,5 +1,5 @@
 #####
-# author: "Joe Colgan", "Hongfei Xu"
+# author: "Joe Colgan" (joscolgan), "Hongfei Xu" (hongfeifly)
 # title: "**Weight gene co-expression network analysis of spermathecae of
 #   _Bombus terrestris_ workers and queens**"
 # output:
