@@ -1,5 +1,5 @@
 #####
-# author: "Joe Colgan", "Hongfei Xu"
+# author: "Joe Colgan" (joscolgan), "Hongfei Xu" (hongfeifly)
 # title: "**Transform brain sample informatin for
 #   Weight gene co-expression network analysis**"
 # output:
