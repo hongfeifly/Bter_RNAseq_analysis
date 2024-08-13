@@ -1,5 +1,5 @@
 #####
-# author: "Hongfei Xu"
+# author: Hongfei Xu (hongfeifly)
 # title: "**gene extraction for tissue specificity calculation**"
 # output:
 #   pdf_document: default
