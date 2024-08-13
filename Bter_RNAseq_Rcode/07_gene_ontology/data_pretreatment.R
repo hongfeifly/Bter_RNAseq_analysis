@@ -1,5 +1,5 @@
 #####
-# author: "Hongfei Xu"
+# author: "Hongfei Xu" (hongfeifly)
 # title: "**Data pretreatment for Go enrichment analysis**"
 # output:
 #   pdf_document: default
