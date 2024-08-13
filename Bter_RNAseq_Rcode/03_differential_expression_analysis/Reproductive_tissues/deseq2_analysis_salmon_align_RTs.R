@@ -1,5 +1,5 @@
 #####
-# author: Joe Colgan (joscolgan), Hongfei Xu (hongfeifly)
+# author: "Joe Colgan" (joscolgan), "Hongfei Xu" (hongfeifly)
 # title: "**Transcriptomic analysis of spermatheca of
 # _Bombus terrestris_ workers and queens**"
 # output:
