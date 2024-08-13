@@ -1,5 +1,5 @@
 #####
-# author: "Joe Colgan", "Hongfei Xu"
+# author: "Joe Colgan" (joscolgan), "Hongfei Xu" (hongfeifly)
 # title: "**Gene Ontology term enrichment analysis of BSPs of _Bombus terrestris_**"
 # output:
 #   pdf_document: default
