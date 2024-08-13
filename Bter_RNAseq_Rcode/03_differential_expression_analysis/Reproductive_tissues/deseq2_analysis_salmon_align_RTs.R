@@ -1,5 +1,5 @@
 #####
-# author: "Joe Colgan", "Hongfei Xu"
+# author: Joe Colgan (joscolgan), Hongfei Xu (hongfeifly)
 # title: "**Transcriptomic analysis of spermatheca of
 # _Bombus terrestris_ workers and queens**"
 # output:
@@ -9,7 +9,8 @@
 #   fig_height: 4
 #   fontsize: 20pt
 # descriptions: The data was gained from salmon_align output. This analysis was ran for
-#   extracting different expressed genes between workers and queens in spermatheca.
+#   extracting different expressed genes between workers and queens in 
+#   reproductive tissues, include spermatheca, vagina, and median oviduct.
 #####
 
 ## Set work directory
