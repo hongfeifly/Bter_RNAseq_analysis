@@ -1,5 +1,5 @@
 #####
-# author: "Joe Colgan", "Hongfei Xu"
+# author: "Joe Colgan" (joscolgan), "Hongfei Xu" (hongfeifly)
 # title: "**Gene Ontology term enrichment analysis of queen-biassed genes
 # in ovary of _Bombus terrestris_**"
 # output:
