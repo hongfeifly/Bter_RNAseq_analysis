@@ -1,10 +1,11 @@
-###
-### dN/dS estimation for Bombus terrestris during divergence node with Bombus impatiens
-###
 #####
-# author: "Joe Colgan", "Hongfei Xu"
+# author: "Joe Colgan" (joscolgan), "Hongfei Xu" (hongfeifly)
 # title: "**_dN/dS estimation for Bombus terrestris_**"
-#
+#   pdf_document: default
+#   html_document: default
+#   fig_width: 4
+#   fig_height: 4
+#   fontsize: 20pt
 ## Introduction
 # The purpose of the present analysis is to calculate dN/dS value for 
 # Bombus terrestris during divergence node with Bombus impatiens.
