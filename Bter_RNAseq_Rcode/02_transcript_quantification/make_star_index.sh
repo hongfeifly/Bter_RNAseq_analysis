@@ -15,10 +15,16 @@
 ##
 ########################################################################
 
+## Take inputs from the command line:
+reference_dir=./reference_dir
+# dirctory storing reference genome assembly
+index_dir=./index_dir
+# dirctory storing genomic index file generated for running STAR
+
 ## Create STAR indices
 STAR --runThreadN 10
 --runMode genomeGenerate
---genomeDir ./index_dir \
---genomeFastaFiles ./reference/genome.fa \
---sjdbGTFfile ./reference/genome.gtf \
+--genomeDir $index_dir \
+--genomeFastaFiles $reference/genome.fa \
+--sjdbGTFfile $reference/genome.gtf \
 --sjdbOverhang 149
