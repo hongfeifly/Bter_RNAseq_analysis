@@ -17,7 +17,7 @@
 reference_dir=./reference_dir
 # dirctory storing reference genome assembly
 index_dir=./index_dir
-# dirctory storing genomic index file generated for running STAR
+# dirctory storing genomic index file generated for running Salmon
 
 ## Create salmon indices:
 salmon index 
