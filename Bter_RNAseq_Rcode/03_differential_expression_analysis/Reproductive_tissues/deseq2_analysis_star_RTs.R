@@ -9,7 +9,8 @@
 #   fig_height: 4
 #   fontsize: 20pt
 # descriptions: The data was gained from STAR output. This analysis was ran for
-#   extracting different expressed genes between workers and queens in spermatheca.
+#   extracting different expressed genes between workers and queens in 
+#   reproductive tissues, include spermatheca, vagina, and median oviduct.
 #####
 
 ## Set work directory
