@@ -12,6 +12,10 @@
 ##
 ########################################################################
 
+## Take inputs from the command line:
+input_dir=./input_dir
+# dirctory storing compressed fastq files
+
 ## Create a results output directory:
 mkdir output_dir
 
