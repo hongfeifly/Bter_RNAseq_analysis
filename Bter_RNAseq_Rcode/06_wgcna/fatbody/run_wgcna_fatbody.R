@@ -1,5 +1,5 @@
 #####
-# author: "Joe Colgan", "Hongfei Xu"
+# author: "Joe Colgan" (joscolgan), "Hongfei Xu" (hongfeifly)
 # title: "**Weight gene co-expression network analysis of fat body of
 #   _Bombus terrestris_ workers and queens**"
 # output:
