@@ -17,11 +17,11 @@
 reference_dir=./reference_dir
 # dirctory storing reference genome assembly
 index_dir=./index_dir
-# dirctory storing genomic index file generated for running Salmon
+# dirctory storing transcriptomic index file generated for running Salmon
 
 ## Create salmon indices:
 salmon index 
--t $reference/genome.fa
+-t $reference/transcriptome.fa
 -i $reference 
 --decoys $index_dir/decoys.txt 
 -k 31
