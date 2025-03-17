@@ -4,7 +4,7 @@ Localised tissue-specific gene expression and gene duplications are important so
 ===
 This repository contains scripts related to the transcriptomic analysis of tissues (brains, fat bodies, ovaries, and reproductive tissues (spermatheca, median oviduct, vagina)) collected from worker and queen bumblebees. Findings of the analysis are reported in the following manuscript:
 
-Hongfei Xu, ..., Thomas J. Colgan. Localised tissue-specific gene expression and gene duplications are important sources of morph differences in a social bumblebee.
+Hongfei Xu and Thomas J. Colgan. Localised tissue-specific gene expression and gene duplications are important sources of morph differences in a social bumblebee.
 
 The following directory contains scripts for:
 
